@@ -2,7 +2,8 @@
     "name": "Hand in 2",
     "description": "",
     "dependencies": {
-        "device": "*"
+        "device": "*",
+        "arcade-background-scroll": "github:microsoft/arcade-background-scroll#v0.1.2"
     },
     "files": [
         "main.blocks",
@@ -16,7 +17,7 @@
         "test.ts"
     ],
     "targetVersions": {
-        "target": "2.0.60",
+        "target": "2.0.61",
         "targetId": "arcade"
     },
     "supportedTargets": [
